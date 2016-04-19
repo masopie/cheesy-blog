@@ -1,1 +1,3 @@
 This is the first thing I've ever done with Rails. Boy oh boy!
+
+A blog themed around cheese.
